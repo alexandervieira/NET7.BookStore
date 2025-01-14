@@ -36,6 +36,10 @@ Consulte o meu perfil <a href="https://github.com/alexandervieira/alexandervieir
 
 Consulte <a href="https://github.com/alexandervieira/repositorio-base/blob/master/git.md">aqui</a>.
 
+## Lista de comandos K8S e Minikube
+
+Consulte <a href="https://github.com/alexandervieira/Lista.Comandos.k8s.Minikube/blob/master/README.md">aqui</a>.
+
 ## Tecnologias
 
 ### Componentes Implementados
